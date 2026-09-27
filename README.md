@@ -38,9 +38,7 @@ An Android application to track daily income and expenses with a clean Material 
 
 
 
-Add screenshots here after running the app.
 
-## Author
 
-**Abhinav Pande**
+
 
