@@ -32,6 +32,8 @@ An Android application to track daily income and expenses with a clean Material 
 4. Run the app on an emulator or Android device.
 
 ## Screenshots
+![Uploading Screenshot_20260927_130418.png…]()
+
 
 Add screenshots here after running the app.
 
